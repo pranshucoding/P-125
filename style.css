@@ -1,0 +1,41 @@
+.copy_right_footer{
+    position:fixed ;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 5px  antiquewhite;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+
+#h2b{
+    font-size:xx-large;
+    color: blue;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#h22b{
+    font-size:xx-large;
+    color: orange;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#h3b{
+    font-size:x-large;
+    color: rgb(252, 220, 13);
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#hh{
+    font-size:x-large;
+    color: rgb(252, 220, 13);
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
